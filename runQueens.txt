@@ -1,0 +1,1 @@
+To run program on engr server(since it already has numpy package): python nQueens.py
